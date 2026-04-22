@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning Data Analytics (SQL, Excel, and more)
 
-💼 I’m currently working as a Sales Executive at TVS
+💼 I’m currently pursuing PGDM Course
 
 💞️ I’m looking to collaborate on Data-driven projects & business strategies
 
